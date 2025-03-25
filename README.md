@@ -44,8 +44,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>Languages & Databases</b></summary><br>
+<b>Languages & Databases</b><br>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,10 +52,8 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>Tools & Frameworks</b></summary><br>
+<b>Tools & Frameworks</b><br>
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -66,10 +63,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Cloud & Data Engineering</b></summary><br>
+<b>Cloud & Data Engineering</b><br>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=amazon-redshift&logoColor=white)
@@ -77,25 +71,19 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Big Data & Messaging</b></summary><br>
+<b>Big Data & Messaging</b><br>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Other Tools</b></summary><br>
+<b>Other Tools</b><br>
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Vespa](https://img.shields.io/badge/Vespa-3D3D3D?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-</details>
+
 
 ---
 
