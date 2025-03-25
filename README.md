@@ -1,18 +1,12 @@
-<!-- Background animation (dark mode friendly) -->
-<p align="center">
-  <img src="https://i.gifer.com/7plQ.gif" alt="Data Animation" width="100%" />
-</p>
-
-<!-- Typing animation for key focus areas -->
+<!-- Typing header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Cloud+Data+Engineer;ETL+Pipelines+%26+Workflow+Automation;Real-time+Analytics+at+Scale;Snowflake+%7C+Redshift+%7C+Airflow+%7C+Spark" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3BB9FF&center=true&vCenter=true&random=false&width=435&lines=Designing+Data+Pipelines...;Building+ETL+Workflows...;Optimizing+Analytics+in+the+Cloud" alt="Typing SVG" />
 </div>
 
-<!-- Animated data-themed gif (dark aesthetic) -->
+<!-- GIF visual (you can replace the link with another if you'd like) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp1eWJydnhnMGp4czExdzA3NmE0ZHBkb3E1ZmtwMGw3aG10ZHR2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" alt="Data Engineering GIF" height="220"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Engineering" height="200" />
 </div>
-
 
 <!-- Intro title -->
 <h1 align="center">👋 I'm Pranav Reddy</h1>
