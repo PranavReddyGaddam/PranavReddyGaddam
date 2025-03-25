@@ -110,6 +110,5 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/pranavreddygaddam)  <br>
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:your.email@gmail.com)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavreddygaddam)  <hr>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.pranav.gaddam@gmail.com)
