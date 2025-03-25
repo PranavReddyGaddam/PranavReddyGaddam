@@ -13,7 +13,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 - 💼 Ex-Data Engineer at VE Projects Pvt Ltd (Aug 2023 – July 2024)
 - ⚙️ Specialized in Apache Kafka, Spark, AWS Glue, Airflow & Redshift
 - 📊 Skilled in Snowflake, dbt, Power BI, Tableau for end-to-end data delivery
-- 🧠 Published researcher with a patent in ML for speech detection
+- 🧠 Published researcher with a patent in ML for hate speech detection.
 
 ---
 
