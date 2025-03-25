@@ -1,8 +1,16 @@
-<h1 align="center">👋 Hi, I'm Pranav Reddy</h1>
+<!-- Typing header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3BB9FF&center=true&vCenter=true&random=false&width=435&lines=Designing+Data+Pipelines...;Building+ETL+Workflows...;Optimizing+Analytics+in+the+Cloud" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <b>Data Engineer | Cloud & ETL Pipelines | Analytics Enthusiast</b>
-</p>
+<!-- GIF visual (you can replace the link with another if you'd like) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Engineering" height="200" />
+</div>
+
+<!-- Intro title -->
+<h1 align="center">👋 I'm Pranav Reddy</h1>
+<h3 align="center">Cloud Data Engineer | ETL Specialist | Analytics Automation</h3>
 
 ---
 
