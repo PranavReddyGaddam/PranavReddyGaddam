@@ -97,13 +97,15 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
 ## 🎓 Education
 
-**San Jose State University**  
-📍 *M.S. in Data Analytics* (May 2024 – May 2026)  
-🎓 *CGPA: 3.8 / 4.0*
+<div align="center">
 
-**St. Martin’s Engineering College**  
-📍 *B.Tech in Computer Science and Engineering* (Aug 2019 – May 2023)  
-🎓 *GPA: 3.3 / 4.0*
+  <img src="https://img.shields.io/badge/San%20Jose%20State%20University-FFD700?style=for-the-badge&logoColor=black" alt="San Jose State University"/>
+  <p><b>M.S. in Data Analytics</b> | CGPA: 3.8 / 4.0 | May 2024 – May 2026</p>
+
+  <img src="https://img.shields.io/badge/St.%20Martin's%20Engineering%20College-1E90FF?style=for-the-badge&logoColor=white" alt="St. Martin's Engineering College"/>
+  <p><b>B.Tech in Computer Science and Engineering</b> | GPA: 3.3 / 4.0 | Aug 2019 – May 2023</p>
+
+</div>
 
 ---
 
