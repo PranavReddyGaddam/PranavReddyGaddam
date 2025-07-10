@@ -116,7 +116,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 <div align="center">
 
   <img src="https://img.shields.io/badge/San%20Jose%20State%20University-FFD700?style=for-the-badge&logoColor=black" alt="San Jose State University"/>
-  <p><b>M.S. in Data Analytics</b> | CGPA: 3.8 / 4.0 | May 2024 – May 2026</p>
+  <p><b>M.S. in Data Analytics</b> | CGPA: 3.8 / 4.0 | Aug 2024 – May 2026</p>
 
   <img src="https://img.shields.io/badge/St.%20Martin's%20Engineering%20College-1E90FF?style=for-the-badge&logoColor=white" alt="St. Martin's Engineering College"/>
   <p><b>B.Tech in Computer Science and Engineering</b> | GPA: 3.3 / 4.0 | Aug 2019 – May 2023</p>
@@ -136,5 +136,5 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavreddygaddam)  <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-reddy-gaddam-69338321b)  <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.pranav.gaddam@gmail.com)
