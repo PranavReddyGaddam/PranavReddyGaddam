@@ -58,6 +58,8 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/Drizzle%20ORM-8E44AD?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazonaws&logoColor=white&style=flat-square"/>
     </td>
   </tr>
 </table>
