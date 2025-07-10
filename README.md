@@ -46,6 +46,20 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
       <b>Snowflake, dbt, Power BI, Airflow</b> – Analyzed 1M+ rows of crime data to identify hotspot locations and optimized police resource allocation.
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>GitBridge - GitHub-to-Diagram & Podcast Generator</h3>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLM%20API-000000?logo=openai&logoColor=white&label=OpenRouter&style=flat-square"/>
+      <img src="https://img.shields.io/badge/ElevenLabs-111111?logo=elevenlabs&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Mermaid.js-4B3263?logo=mermaid&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-8E44AD?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 ---
