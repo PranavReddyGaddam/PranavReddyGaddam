@@ -48,11 +48,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>Automated Reddit ETL Pipeline</h3>
 
-      <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square" alt="Airflow"/> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/>
 
       <br>
 
@@ -64,11 +60,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>San Francisco Crime Trend Analysis</h3>
 
-      <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat-square" alt="Snowflake"/> <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=flat-square" alt="dbt"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" alt="Power BI"/>
 
       <br>
 
@@ -84,27 +76,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>GitBridge - GitHub-to-Diagram & Podcast Generator</h3>
 
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/LLM%20API-000000?logo=openai&logoColor=white&label=OpenRouter&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/ElevenLabs-111111?logo=elevenlabs&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Mermaid.js-4B3263?logo=mermaid&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Drizzle%20ORM-8E44AD?style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazonaws&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"/> <img src="https://img.shields.io/badge/LLM%20API-000000?logo=openai&logoColor=white&label=OpenRouter&style=flat-square" alt="OpenRouter"/> <img src="https://img.shields.io/badge/ElevenLabs-111111?logo=elevenlabs&logoColor=white&style=flat-square" alt="ElevenLabs"/> <img src="https://img.shields.io/badge/Mermaid.js-4B3263?logo=mermaid&logoColor=white&style=flat-square" alt="Mermaid.js"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Drizzle%20ORM-8E44AD?style=flat-square" alt="Drizzle ORM"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS S3"/>
 
       <br>
 
@@ -116,15 +88,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>Hirely - AI-Powered Hiring Platform</h3>
 
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"/> <img src="https://img.shields.io/badge/Groq-000000?logo=groq&logoColor=white&style=flat-square" alt="Groq"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" alt="ChromaDB"/>
 
       <br>
 
@@ -140,15 +104,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>Nexus - 3D Interactive Portfolio</h3>
 
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat-square" alt="Three.js"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"/> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"/>
 
       <br>
 
@@ -160,13 +116,7 @@ I'm a Data Engineer with a passion for building scalable ETL pipelines, automati
 
       <h3>QuizForge - AI Quiz Generator</h3>
 
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
-
-      <img src="https://img.shields.io/badge/Qwen3-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/> <img src="https://img.shields.io/badge/Qwen3-000000?style=flat-square" alt="Qwen3"/>
 
       <br>
 
