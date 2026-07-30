@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/laptop-reveal.svg" alt="Pranav Reddy Gaddam developer profile" width="100%" />
+  <img src="laptop-reveal.svg" alt="Pranav Reddy Gaddam developer profile" width="100%" />
 </div>
 
 <p align="center">
